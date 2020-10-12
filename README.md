@@ -7,7 +7,7 @@ I created a tool that classifies Tripadvisors reviews into three categories: neg
 *   Created a tool that classifies Tripadvisors reviews into three categories (accuracy: 85%).
 *   Data collection on Kaggle website: https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews.
 *   Exploratory Data analysis using Wordcloud.
-*   Text preprocessing: removed punctiations, stemming, word embedding ...
+*   Text preprocessing: removed punctuations, stemming, word embedding ...
 *   Created a simple LSTM model.
 *   Testing model for inference on one sentence.
 

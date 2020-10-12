@@ -23,23 +23,20 @@ The dataset contains 20k reviews crawled from Tripadvisor labeled from 1 star to
 
 ## Exploratory Data Analysis
 
-
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP/blob/main/images/wordcloud.PNG)
+![alt text](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP/blob/main/images/ratings_counts.PNG)
 
 ## Text preprocessing
 
-
-![alt text]()
+![alt text](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP/blob/main/images/examples.PNG)
 
 ## Model Building
+![alt text](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP/blob/main/images/my_model.PNG)
 
-![alt text]()
 ## Model performance
 
-![alt text]()
-
+![alt text](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP/blob/main/images/classification_report.PNG)
+![alt text](https://github.com/gaetanlop/Tripadvisor_reviews_rating_NLP/blob/main/images/confusion_matrix.PNG)
 
 ## Productionization and Deployment
 Soon
